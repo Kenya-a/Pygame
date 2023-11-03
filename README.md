@@ -4,7 +4,7 @@ Is this my first READme
 
 cool. 
 
-anyways heres what we are doing. 
+Anyways heres what we are doing. 
 
 This is literally a spint challenge after a week of learning. 
 
